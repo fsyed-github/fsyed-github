@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Faiz
 -  I’m interested in Cloud Technology.
--  I’m currently learning AWS Solutions Archeitect Associate.
+-  I’m currently learning AWS Solutions Architect Associate.
 -  I’m looking to collaborate on AWS projects.
--  You can reach me at 
 
 <!---
 fsyed-github/fsyed-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
